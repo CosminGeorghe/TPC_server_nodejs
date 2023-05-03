@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/CosminGeorghe/TPC_server_nodejs/issues"
   },
-  "homepage": "https://github.com/CosminGeorghe/TPC_server_nodejs#readme"
+  "homepage": "https://github.com/CosminGeorghe/TPC_server_nodejs#readme",
+  "dependencies": {
+    "node": "^20.0.0"
+  }
 }
